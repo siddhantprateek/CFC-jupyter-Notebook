@@ -1,10 +1,10 @@
 # CFC-jupyter-Notebook
 
 
-...python
+```python
 pip install jupyterlab
 pip install notebook
-...
+```
 > This practice Notebook for Python Programming.
 > done again
 
