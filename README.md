@@ -7,7 +7,7 @@ pip install jupyterlab
 pip install notebook
 ```
 ### Requirements :
-Verion: python 3.4+
+Version: python 3.4+
 
 to check the version in your terminal:
 ```
